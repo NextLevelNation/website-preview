@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-BMvjP6SA.js";import{e as a,f as o,o as n,w as r,b as s}from"./index-CnaRa8Jv.js";const m=a({__name:"Talents",setup(p){return(_,e)=>(n(),o(t,null,{default:r(()=>e[0]||(e[0]=[s(" Talents ",-1)])),_:1,__:[0]}))}});export{m as default};
