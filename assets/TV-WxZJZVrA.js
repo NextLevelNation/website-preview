@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-BpGXCFti.js";import{e as o,f as a,w as r,o as n,b as s}from"./index-DBAaiC7t.js";const l=o({__name:"TV",setup(p){return(_,e)=>(n(),a(t,null,{default:r(()=>e[0]||(e[0]=[s(" NLN TV ",-1)])),_:1,__:[0]}))}});export{l as default};
