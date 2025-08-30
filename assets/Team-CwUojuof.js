@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-CfKIsyo-.js";import{e as a,f as o,w as r,o as n,b as s}from"./index-rlfC250v.js";const l=a({__name:"Team",setup(p){return(m,e)=>(n(),o(t,null,{default:r(()=>e[0]||(e[0]=[s(" Team ",-1)])),_:1,__:[0]}))}});export{l as default};

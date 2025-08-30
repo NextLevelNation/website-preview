@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-CfKIsyo-.js";import{e as o,f as a,w as r,o as n,b as s}from"./index-rlfC250v.js";const l=o({__name:"NLNTV",setup(p){return(_,e)=>(n(),a(t,null,{default:r(()=>e[0]||(e[0]=[s(" NLN-TV ",-1)])),_:1,__:[0]}))}});export{l as default};

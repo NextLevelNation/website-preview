@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-CfKIsyo-.js";import{e as o,f as r,w as n,o as a,b as s}from"./index-rlfC250v.js";const l=o({__name:"Bewerben",setup(p){return(_,e)=>(a(),r(t,null,{default:n(()=>e[0]||(e[0]=[s(" Bewerben ",-1)])),_:1,__:[0]}))}});export{l as default};
