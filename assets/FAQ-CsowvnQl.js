@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-Bbd8aLm_.js";import{d as o,e as a,w as r,o as n,f as s}from"./index-DrI6EF_l.js";const d=o({__name:"FAQ",setup(p){return(_,e)=>(n(),a(t,null,{default:r(()=>e[0]||(e[0]=[s(" FAQ ALLA ",-1)])),_:1,__:[0]}))}});export{d as default};
