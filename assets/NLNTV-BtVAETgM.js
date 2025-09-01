@@ -1,0 +1,1 @@
+import{W as t}from"./WrappedContent-8HxXWR4L.js";import{d as o,f as a,w as r,o as n,g as s}from"./index-CVwAJMwV.js";const d=o({__name:"NLNTV",setup(p){return(_,e)=>(n(),a(t,null,{default:r(()=>e[0]||(e[0]=[s(" NLN-TV ",-1)])),_:1,__:[0]}))}});export{d as default};
