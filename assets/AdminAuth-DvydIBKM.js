@@ -1,0 +1,1 @@
+import{A as e}from"./AuthWindow-DCKU-nYT.js";import{d as t,e as n,o}from"./index-CgwQ3M8u.js";const d=t({__name:"AdminAuth",setup(i){return(m,c)=>(o(),n(e,{title:"Admin Interface",description:"Bitte melde dich mit deinem Admin Account an.",buttonText:"Anmelden"}))}});export{d as default};

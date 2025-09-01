@@ -1,0 +1,1 @@
+import{W as e}from"./WrappedContent-CBAo9zBJ.js";import{d as o,e as r,w as a,o as n,f as p}from"./index-CgwQ3M8u.js";const d=o({__name:"Esport",setup(s){return(_,t)=>(n(),r(e,null,{default:a(()=>t[0]||(t[0]=[p(" E-Sport ",-1)])),_:1,__:[0]}))}});export{d as default};
