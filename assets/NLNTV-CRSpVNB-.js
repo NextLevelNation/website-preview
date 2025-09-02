@@ -1,0 +1,1 @@
+import{W as e,A as t}from"./AppPageHeader-unnZVX1G.js";import{d as a,f as r,w as o,o as n,e as s}from"./index-Elsj_Jf_.js";const l=a({__name:"NLNTV",setup(p){return(i,c)=>(n(),r(e,null,{default:o(()=>[s(t,{title:"NLN-TV",description:"Hier entsteht geiler Shit | Kathy-TV"})]),_:1}))}});export{l as default};
