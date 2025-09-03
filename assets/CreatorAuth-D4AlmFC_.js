@@ -1,0 +1,1 @@
+import{A as e}from"./AuthWindow-Bb_l6ZDj.js";import{d as t,i as o,e as r}from"./index-p-nFqvI6.js";const s=t({__name:"CreatorAuth",setup(n){return(a,i)=>(r(),o(e,{title:"Creator Bereich",description:"Bitte melde dich mit deinem Creator Account an.",buttonText:"Anmelden"}))}});export{s as default};
