@@ -1,0 +1,1 @@
+import{W as e}from"./WrappedContent-Dvvmj3xd.js";import{d as t,g as a,w as r,o,a as n,A as s}from"./index-vN4YSs9j.js";const l=t({__name:"NLNTV",setup(p){return(i,c)=>(o(),a(e,null,{default:r(()=>[n(s,{title:"NLN-TV",description:"Hier entsteht geiler Shit | Kathy-TV"})]),_:1}))}});export{l as default};
