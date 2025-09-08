@@ -1,0 +1,1 @@
+import{A as e}from"./AuthWindow-v5FdBrRH.js";import{d as t,h as n,o}from"./index-DdwM69Fy.js";import"./InputGroup-BhhHHmrK.js";const p=t({__name:"AdminAuth",setup(i){return(m,r)=>(o(),n(e,{title:"Admin Interface",description:"Bitte melde dich mit deinem Admin Account an.",buttonText:"Anmelden"}))}});export{p as default};
