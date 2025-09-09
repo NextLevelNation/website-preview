@@ -1,0 +1,1 @@
+import{W as e,A as t}from"./AppPageHeader-DcB_dYZI.js";import{d as a,h as r,w as o,o as n,b as s}from"./index-BOBhlKlB.js";const l=a({__name:"NLNTV",setup(p){return(i,c)=>(n(),r(e,null,{default:o(()=>[s(t,{title:"NLN-TV",description:"Hier entsteht geiler Shit | Kathy-TV"})]),_:1}))}});export{l as default};
